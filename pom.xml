@@ -10,6 +10,7 @@
 
 	<modules>
 		<module>chapter-03</module>
+		<module>parallel</module>
 	</modules>
 
 	<properties>
